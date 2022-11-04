@@ -1,0 +1,17 @@
+
+@font-face {
+  font-family: 'MyWebFont';
+  src:  url('./FOT-Rodin Pro UB.otf') format('opentype');
+}
+* {
+	margin: 0;
+}
+div {
+	background: #F7F4DF;
+	padding: 5%;
+	height:25vh;
+	font-family: 'MyWebFont';
+	color: #645D48;
+	font-size: 2em;
+}
+
